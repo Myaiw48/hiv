@@ -34,7 +34,7 @@ h2
 {font-family: 'Merienda', cursive;
 }
 p:hover, h1:hover, a:hover {
-    background-color: lightblue; 
+    background-color: rgb(9, 158, 207); 
 }
 #Pright {
     float:right; 
@@ -52,5 +52,5 @@ a
 a:visited
 {font-family:'Londrina Shadow', cursive;
 font: size 22px;
-color: rgb(150, 135, 0)
+color: #d1d400
 }
