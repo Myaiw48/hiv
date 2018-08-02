@@ -4,7 +4,7 @@ body {
 p{
 
 font-family: 'Kranky', cursive;
-    font-size:18px;
+    font-size:19px;
     color: rgb(0, 0, 0);
     text-align: left;
     padding: 1em;
@@ -17,7 +17,7 @@ font-family: 'Kranky', cursive;
 p{
 
     font-family: 'Kranky', cursive;
-        font-size:18px;
+        font-size:19px;
         color: rgb(0, 0, 0);
         text-align: left;
         padding: 1em;
@@ -43,4 +43,14 @@ p:hover, h1:hover, a:hover {
 #Pleft {
     float:left;
     margin:1em;
+}
+a
+{font-family:'Londrina Shadow', cursive;
+    font: size 22px;
+    color: rgb(0, 0, 0)
+}
+a:visited
+{font-family:'Londrina Shadow', cursive;
+font: size 22px;
+color: rgb(0, 9, 87)
 }
